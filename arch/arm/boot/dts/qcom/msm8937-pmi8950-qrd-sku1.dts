@@ -14,6 +14,7 @@
 /dts-v1/;
 
 #include "msm8937.dtsi"
+#include "land/msm8937-land.dtsi"
 #include "msm8937-pmi8950-qrd-sku1.dtsi"
 
 / {
